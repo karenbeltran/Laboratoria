@@ -1,0 +1,16 @@
+body{
+     font-family: 'Raleway', sans-serif;
+ }
+ #primero{
+     background-color: yellow; 
+     padding-bottom: 30px;
+ }
+ #segundo{
+     background-color: red;
+     padding-bottom: 30px;
+     border: 1px solid #000000;
+ }
+ #tercero{
+     background-color: yellow;
+     padding-bottom: 30px;
+ } 
