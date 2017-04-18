@@ -10,11 +10,10 @@ body{
      padding: 5px 5px 30px 5px;
      margin: 10px;
      width: 150px;
-     padding: 4px;
-     margin: auto;
-     margin: auto;
-     margin-left: 8px;
-     margin-right: 8px;
+     margin-left: auto;
+     margin-right: auto;
+     margin-left: 400px;
+     margin-right: 10px;
   }
   #segundo{
      display: inline-block;
@@ -23,11 +22,10 @@ body{
      padding: 5px 5px 30px 5px;
      margin: 10px;
      width: 150px;
-     padding: 4px;
-     margin: auto;
-     margin: auto;
-     margin-left: 8px;
-     margin-right: 8px;
+     margin-left: auto;
+     margin-right: auto;
+     margin-left: 10px;
+     margin-right: 10px;
   }
   #tercero{
      display: inline-block;
@@ -36,9 +34,8 @@ body{
      padding: 5px 5px 30px 5px;
      margin: 10px;
      width: 150px;
-     padding: 4px;
-     margin: auto;
-     width: auto;
-    margin-left: 8px;
-    margin-right: 8px;
+     margin-left: auto;
+     width-right: auto;
+    margin-left: 10px;
+    margin-right: 10px;
   }
